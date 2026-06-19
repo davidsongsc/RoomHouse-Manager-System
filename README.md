@@ -273,20 +273,6 @@ Fornecer uma plataforma centralizada para gestão operacional de restaurantes, b
 
 ---
 
-## 👨‍💻 Autor
-
-George
-
-Desenvolvedor Full Stack
-
----
-
-## 📜 Licença
-
-Projeto privado.
-
-Todos os direitos reservados.
-
 ## 👀 Preview
  
 > <img src="md/img/gerenciador1.png" style="width: 48%;">
